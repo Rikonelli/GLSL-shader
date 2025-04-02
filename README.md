@@ -3,10 +3,10 @@
 This is my first shader - a learning experiment before a technical interview. 
 I used [Shadertoy](https://www.shadertoy.com/) for fast prototyping within the limited time I had, avoiding the need to set up an environment.
 
+
 This fragment shader that was supposed to simulate realistic water waves with dynamic lighting effects. 
 However, it looks more like watching a hospital ceiling through a lava lamp, and I find myself preferring that description! :D 
 
-The shader can be 
 
 This shader demonstrates several simulation techniques including:
 - Multiple overlapping waves with different frequencies and directions
