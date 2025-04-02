@@ -1,8 +1,10 @@
-# GLSL Shader: Psychedelic Water Waves
+# GLSL Shader: Hospital Ceiling Through a Lava Lamp
 
-This is my first shader - a learning experiment before a technical interview.
+This is my first shader - a learning experiment before a technical interview. 
+I used [Shadertoy](https://www.shadertoy.com/) for fast prototyping within the limited time I had, avoiding the need to set up an environment.
 
-A GLSL fragment shader that was supposed to simulate realistic water waves with dynamic lighting effects. However, it looks more like watching a hospital ceiling through a lava lamp, and I find myself preferring that description! :D 
+This fragment shader that was supposed to simulate realistic water waves with dynamic lighting effects. 
+However, it looks more like watching a hospital ceiling through a lava lamp, and I find myself preferring that description! :D 
 
 This shader demonstrates several simulation techniques including:
 - Multiple overlapping waves with different frequencies and directions
@@ -13,22 +15,24 @@ This shader demonstrates several simulation techniques including:
 
 ## Demo
 
-[Demo Video](./demo/shader-demo.webm)
 [Screenshot](./screenshots/screenshot-1.png)
+
+
+[Demo Video](./demo/shader-demo.webm)
 
 ## Learning Process
 
 I created this shader as part of my preparation for a technical interview, with limited time to learn the concepts. To accelerate my understanding, I used:
 - Online GLSL tutorials
 - Reference examples
-- LLM assistance to help explain the code and underlying concepts
+- LLM assistance to improve and help explain the code and underlying concepts
 
-This approach allowed me to quickly grasp how fragment shaders work, the mathematics behind wave generation, and color manipulation techniques - all while creating something visually interesting (if not exactly water-like).
+This approach allowed me to quickly grasp how fragment shaders work, the mathematics behind wave generation, and color manipulation techniques - all while creating something visually interesting.
 
 ## Implementation
 
 The shader uses overlapping sine waves with varying parameters to create movement. Key features:
-- Four combined sine waves with different directions, speeds, and amplitudes
+- Four combined sine waves with different directions, speeds, and amplitudes (possibility to experiment with adding more waves for different results)
 - Dynamic depth calculation based on wave height
 - Specular reflection simulation for light reflections
 - Subtle highlights on wave crests
