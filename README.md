@@ -14,6 +14,7 @@ This shader demonstrates several simulation techniques including:
 ## Demo
 
 [Demo Video](./demo/shader-demo.webm)
+[Screenshot](./screenshots/screenshot-1.png)
 
 ## Learning Process
 
