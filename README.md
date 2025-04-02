@@ -13,7 +13,7 @@ This shader demonstrates several simulation techniques including:
 
 ## Demo
 
-[Demo Video](./demo/water-shader-demo.mp4)
+[Demo Video](./demo/shader-demo.webm)
 
 ## Learning Process
 
