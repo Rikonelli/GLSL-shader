@@ -6,12 +6,19 @@ I used [Shadertoy](https://www.shadertoy.com/) for fast prototyping within the l
 This fragment shader that was supposed to simulate realistic water waves with dynamic lighting effects. 
 However, it looks more like watching a hospital ceiling through a lava lamp, and I find myself preferring that description! :D 
 
+The shader can be 
+
 This shader demonstrates several simulation techniques including:
 - Multiple overlapping waves with different frequencies and directions
 - Dynamic wave movement and animation
 - Depth-based coloration
 - Specular highlights on wave crests
 - Edge shallowing effects
+
+## 🔗 Live Version  
+You can view the shader live on Shadertoy:  
+[Shadertoy Link](https://www.shadertoy.com/view/t3f3Dl)  
+
 
 ## Demo
 
